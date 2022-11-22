@@ -1,0 +1,6 @@
+*.pptx
+.DS_Store
+/Ejercicios/*.docx
+upload.sh
+/Soluciones-2021-2022
+UD03.pdf
